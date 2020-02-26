@@ -7,6 +7,7 @@
 	- BLUE = (celkový počet písmen % 25) * 10 
 
 - Tento repozitár si forknite, vytvorte obe aplikácie a pre odovzdanie spravte pull request. https://reflectoring.io/github-fork-and-pull/
-pozn. % je modulo, zvyšok po delení.
+
+- pozn. % je modulo, zvyšok po delení.
  
 
